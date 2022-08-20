@@ -1,0 +1,48 @@
+.password{
+  text-align: center;
+  color: black;
+  height: 45px;
+  width: 45vh;
+  background-color: orange;
+  font-weight: bolder;
+  border-radius: 10px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  border-style: solid;
+  border-color: white;
+  
+}
+.form{
+  text-align: center;
+  width: 50vh;
+  margin-left: 75vh;
+  font-weight: bolder;
+  background-color: gainsboro;
+  border-radius: 20px;
+  margin-top: 20vh;
+  }
+ .rem{
+    float: left;
+    padding-left: 15px;
+  }
+ .button{
+    background-color: rgb(63, 171, 214);
+    height: 30px;
+    width: 100px;
+    border-radius: 10px;
+    border-color: aliceblue;
+    margin-bottom: 10px;
+    border-style: solid;
+    color: white;
+  }
+.forget{
+  padding-left: 26vh;
+ }
+.login-img{
+  height: 50px;
+  width: 100px;
+  padding-top: 20px;
+ }
+.log{
+  margin-top: 10px;
+ }
